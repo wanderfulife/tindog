@@ -161,3 +161,18 @@ background-color: #ff4c68;
 .botbut{
 margin: 10px 5px;
 }
+
+@media (max-width: 1028px) {
+  .phoneimg {
+    margin-top: 5%;
+    position: static;
+    transform: rotate(0);
+    width: 65%;
+  }
+  h1{
+    text-align: center;
+  }
+  .download-button {
+    margin: 2%;
+  }
+}

@@ -1,1 +1,1 @@
-TinDog Starting Files
+Fake Tinder application for your puppy :)
